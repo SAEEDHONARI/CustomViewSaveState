@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewSaveState</string>
+    <string name="type">Type here...</string>
+    <string name="save_custom_view">Save State Of Custom View</string>
+</resources>
